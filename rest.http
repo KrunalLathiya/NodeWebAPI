@@ -1,0 +1,10 @@
+POST http://localhost:3000/contact HTTP/1.1
+content-type: application/json
+
+{
+    "firstname": "Krunal",
+    "lastname": "Lathiya",
+     "email": "Krunal",
+    "company": "AppDividend",
+     "phone": 9033485255
+}
